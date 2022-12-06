@@ -89,7 +89,7 @@ export default function Project() {
                 </Button>
                 <Button
                   m={1}
-                  label={"Github"}
+                  label={"Live"}
                   onClick={(e) => {
                     e.stopPropagation();
                     window.open("https://thomasple13.github.io/weather-app/");
@@ -172,7 +172,7 @@ export default function Project() {
                 </Button>
                 <Button
                   m={1}
-                  label={"Github"}
+                  label={"Live"}
                   onClick={(e) => {
                     e.stopPropagation();
                     window.open(
@@ -246,17 +246,17 @@ export default function Project() {
                   label={"Github"}
                   onClick={(e) => {
                     e.stopPropagation();
-                    window.open("https://github.com/Thomasple13/weather-app");
+                    window.open("https://github.com/Thomasple13/React-Portfolio");
                   }}
                 >
                   <FaGithub />
                 </Button>
                 <Button
                   m={1}
-                  label={"Github"}
+                  label={"Live"}
                   onClick={(e) => {
                     e.stopPropagation();
-                    window.open("https://thomasple13.github.io/weather-app/");
+                    window.open("https://github.com/Thomasple13/React-Portfolio");
                   }}
                 >
                   <FaExternalLinkAlt />
