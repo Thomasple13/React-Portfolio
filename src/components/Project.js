@@ -256,7 +256,7 @@ export default function Project() {
                   label={"Live"}
                   onClick={(e) => {
                     e.stopPropagation();
-                    window.open("https://github.com/Thomasple13/React-Portfolio");
+                    window.open("https://react-portfolio-seven-kappa.vercel.app/");
                   }}
                 >
                   <FaExternalLinkAlt />
