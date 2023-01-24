@@ -59,9 +59,7 @@ import {
               </Text>
             </Heading>
             <Text color={'gray.500'}>
-              Snippy is a rich coding snippets app that lets you create your own
-              code snippets, categorize them, and even sync them in the cloud so
-              you can use them anywhere. All that is free!
+            Based in Austin Texas, I am a Full stack web developer, who recently earned a certificate in full stack development from the Full Stack Flex Program at the University of Texas at Austin. Newly developed skills and strengths include Javascript, React.js, NodeJs and MongoDb. I aim to offer projects in an efficient manner with a strong focus on user experience and user interaction. I am a diligent problem solver who is passionate about building a better experience on the web, excited to apply my skills to a solution-oriented team to create impactful applications.
             </Text>
             <Stack
               spacing={{ base: 4, sm: 6 }}
