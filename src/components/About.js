@@ -14,7 +14,7 @@ import {
   export default function About() {
     const downloadResume = function(){
       const link = document.createElement('a');
-      link.href = `./Thomas_Resume.pdf`;
+      link.href = `./assets./Thomas_Resume.pdf`;
       link.download = `Thomas_Le_Resume`
       document.body.appendChild(link);
       link.click();
