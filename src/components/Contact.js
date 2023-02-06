@@ -18,7 +18,7 @@ import {
   Textarea,
   useColorModeValue,
 } from "@chakra-ui/react";
-import { MdPhone, MdEmail, MdLocationOn, MdOutlineEmail } from "react-icons/md";
+import { MdEmail, MdLocationOn, MdOutlineEmail } from "react-icons/md";
 import { BsGithub, BsLinkedin, BsPerson } from "react-icons/bs";
 
 export default function Contact() {
@@ -46,16 +46,6 @@ export default function Contact() {
                   </Text>
                   <Box py={{ base: 5, sm: 1, md: 8, lg: 10 }}>
                     <VStack pl={0} spacing={3} alignItems="flex-start">
-                      <Button
-                        size="md"
-                        height="48px"
-                        width="200px"
-                        variant="ghost"
-                        _hover={{ border: "2px solid #1C6FEB" }}
-                        leftIcon={<MdPhone color="#1970F1" size="20px" />}
-                      >
-                        +91-988888888
-                      </Button>
                       <Button
                         size="md"
                         height="48px"
